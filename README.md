@@ -1,4 +1,4 @@
-# US Stock Market Data Analysis
+# US Stock Market Data Cleaning & Visualization
 
 ## Overview
 This project aims to apply data cleaning and visualization techniques to analyze the US stock market. The dataset includes stock prices, trading volumes, and commodity prices from 2019 to 2024. The analysis involves exploratory data analysis, visualizations, and correlation assessments.
